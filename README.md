@@ -1,3 +1,12 @@
+Nice job overall. You went well beyond the base/challenge requirments, however you missed some key requirements regarding the Question class.
+
+In particular that the Question Class should contain the methods to display questions and check for correct answers.
+
+Also, you didn't use a random question which was also one of the requirements.
+
+Still a nice job!
+
+
 # Build a Simple Quiz Program
 
 ## Weekly Project (Total 10 points)
